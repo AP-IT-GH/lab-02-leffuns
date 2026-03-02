@@ -1,18 +1,24 @@
 ## VR Experience
 
-
-### Lab 1
-
-- Werkt
-
-### Lab 2
+## Lab 1
+### Oef 1
 
 - Werkt
 
-### Lab 3
+### Oef 2
 
 - Werkt
 
-### Lab 4
+### Oef 3
+
+- Werkt
+
+### Oef 4
+
+- Werkt
+
+## Lab 2
+
+### Oef 1: ML Agent met Target en een Groene_Zone
 
 - Werkt
