@@ -1,0 +1,29 @@
+{
+    "Obelix": {
+        "checkpoints": [
+            {
+                "steps": 318798,
+                "file_path": "Assets/results\\Obelix\\Obelix\\Obelix-318798.onnx",
+                "reward": null,
+                "creation_time": 1773061009.383289,
+                "auxillary_file_paths": [
+                    "Assets/results\\Obelix\\Obelix\\Obelix-318798.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 318798,
+            "file_path": "Assets/results\\Obelix\\Obelix.onnx",
+            "reward": null,
+            "creation_time": 1773061009.383289,
+            "auxillary_file_paths": [
+                "Assets/results\\Obelix\\Obelix\\Obelix-318798.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
